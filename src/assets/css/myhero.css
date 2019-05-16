@@ -1,0 +1,5 @@
+.hero.is-info.is-small {
+  background: linear-gradient(to top right, #0277BD 25%, #D099FA);
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+}
