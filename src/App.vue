@@ -1,6 +1,8 @@
 <template>
   <div id="app">
     <Header></Header>
+    <!-- <router-view></router-view> -->
+    <Education></Education>
   </div>
 </template>
 
@@ -13,6 +15,7 @@ export default {
 </script>
 
 <style lang="css">
-@import 'assets/css/mystyles.css';
+/* @import 'assets/css/mystyles.css'; */
 @import 'assets/css/myhero.css';
+@import 'assets/css/myimgcustom.css';
 </style>
